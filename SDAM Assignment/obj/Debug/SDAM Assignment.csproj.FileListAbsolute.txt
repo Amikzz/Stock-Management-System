@@ -1,0 +1,87 @@
+C:\Users\User\source\repos\SDAM Assignment\bin\Debug\SDAM Assignment.exe.config
+C:\Users\User\source\repos\SDAM Assignment\bin\Debug\SDAM Assignment.exe
+C:\Users\User\source\repos\SDAM Assignment\bin\Debug\SDAM Assignment.pdb
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.LogIn.resources
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.Properties.Resources.resources
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.exe
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM Assignment.pdb
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.MenuForm.resources
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.AddNewItem.resources
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.AddStockQty.resources
+C:\Users\User\source\repos\SDAM Assignment\obj\Debug\SDAM_Assignment.RemoveStockItem.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.AssemblyReference.cache
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.exe
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.pdb
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.AddNewItem.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.AddStockQty.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.LogIn.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.MenuForm.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.Properties.Resources.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM_Assignment.RemoveStockItem.resources
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.GenerateResource.cache
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\bin\Debug\LogInForm.resx
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\bin\Debug\MenuForm.resx
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\bin\Debug\SDAM Assignment.exe.config
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\bin\Debug\SDAM Assignment.exe
+C:\Users\cb010071\Desktop\Final\SDAM Assignment\bin\Debug\SDAM Assignment.pdb
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\bin\Debug\LogInForm.resx
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\bin\Debug\MenuForm.resx
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.exe.config
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.exe
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.pdb
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.AssemblyReference.cache
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.AddNewItem.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.AddStockQty.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.LogIn.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.MenuForm.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.Properties.Resources.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.RemoveStockItem.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.GenerateResource.cache
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.exe
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.pdb
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.StockTable.resources
+C:\Users\cb010071\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.TransactionLog.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\bin\Debug\LogInForm.resx
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\bin\Debug\MenuForm.resx
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\bin\Debug\SDAM Assignment.exe.config
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\bin\Debug\SDAM Assignment.exe
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\bin\Debug\SDAM Assignment.pdb
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.AddNewItem.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.AddStockQty.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.LogIn.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.MenuForm.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.Properties.Resources.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.RemoveStockItem.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.StockTable.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM_Assignment.TransactionLog.resources
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM Assignment.exe
+C:\Users\user\Desktop\Final with OOP Done\SDAM Assignment\obj\Debug\SDAM Assignment.pdb
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\bin\Debug\LogInForm.resx
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\bin\Debug\MenuForm.resx
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.exe.config
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.exe
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\bin\Debug\SDAM Assignment.pdb
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.AddNewItem.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.AddStockQty.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.LogIn.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.MenuForm.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.Properties.Resources.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.RemoveStockItem.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.StockTable.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM_Assignment.TransactionLog.resources
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.exe
+C:\Users\user\Desktop\Final with OOP\SDAM Assignment\obj\Debug\SDAM Assignment.pdb
