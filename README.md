@@ -24,12 +24,14 @@ To run the Stock Management System on your local machine, follow these steps:
    git clone https://github.com/Amikzz/Stock-Management-System.git
 
 2. **Open the Project**:
+   
    Open the project in Visual Studio (or your preferred C# IDE).
 
 3. **Configure the Database**:
-    Ensure that you have Microsoft SQL Server installed and running on your machine.
-    Create a new database and update the connection string in the app.config file (or settings.json if applicable) to point to your SQL Server instance.
-    Run the provided SQL scripts located in the Database folder to set up the necessary tables and schema.
+   
+    - Ensure that you have Microsoft SQL Server installed and running on your machine.
+    - Create a new database and update the connection string in the app.config file (or settings.json if applicable) to point to your SQL Server instance.
+    - Run the provided SQL scripts located in the Database folder to set up the necessary tables and schema.
 
 4. **Build and Run the Application**:
 
